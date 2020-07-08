@@ -1,0 +1,78 @@
+.card{
+    padding: 10px 15px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+}
+.books{
+    margin-top: 19px;
+    background-color:white;
+}
+.first{
+    background-color: #217C58;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom,green 0%,#FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+h3,p{
+    text-align: center;
+}
+.course{
+    margin-top: 19px;
+}
+.b{
+    border-radius: 10px;
+    margin: 19px 5px 5px 5px;
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    
+}
+.fr{
+    width: 70%;
+    margin: 0 auto;
+   
+}
+h1{
+    text-align: center;
+}
+.test{
+    margin-top: 30px;
+}
+.media-body p{
+    margin-top: 20px;
+    text-align: justify;
+}
+.n{
+    margin-top: 19px;
+}
+.gr{
+    margin: 20px;
+    background-color: black;
+    height: 300px;
+}
+ul li{
+    list-style: none;
+}
+.ee{
+    color: white;
+    margin: 18px 5px 0 5px;
+}
+.ff{
+    color: white;
+    margin: 18px 5px 0 5px;
+}
+
+.text{
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 80px;
+}
